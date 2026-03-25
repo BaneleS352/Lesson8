@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\BaneleS\\Downloads\\C# Bootcamp\\Lesson8\\Lesson8\\",
+  "WorkspaceRootPath": "C:\\Users\\BaneleS\\Downloads\\C# Bootcamp\\Lesson8\\Lesson8 - 8.3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3FEAD8F-4B77-43E7-1520-F554DAB859E1}|Lesson8.csproj|c:\\users\\baneles\\downloads\\c# bootcamp\\lesson8\\lesson8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3FEAD8F-4B77-43E7-1520-F554DAB859E1}|Lesson8.csproj|c:\\users\\baneles\\downloads\\c# bootcamp\\lesson8\\lesson8 - 8.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3FEAD8F-4B77-43E7-1520-F554DAB859E1}|Lesson8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BaneleS\\Downloads\\C# Bootcamp\\Lesson8\\Lesson8\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\BaneleS\\Downloads\\C# Bootcamp\\Lesson8\\Lesson8 - 8.3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\BaneleS\\Downloads\\C# Bootcamp\\Lesson8\\Lesson8\\Program.cs",
+              "ToolTip": "C:\\Users\\BaneleS\\Downloads\\C# Bootcamp\\Lesson8\\Lesson8 - 8.3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T07:46:04.931Z",
               "EditorCaption": ""
